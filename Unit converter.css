@@ -1,0 +1,35 @@
+html{
+    background-color: rgb(59, 0, 130);
+}
+body{
+    margin: 0;
+    background-color: aquamarine;
+}
+h1{
+    margin: o;
+    padding: 0;
+    background-color: rgb(104, 135, 203);
+}
+#form{
+    background-color: aquamarine;
+}
+#converterForm {
+    display: flex;
+    background-color: aquamarine;
+}
+#inputnumber{
+    margin: 10px;
+}
+#inputunit{
+    margin: 10px;
+}
+#outputunit{
+    margin: 10px;
+}
+button{
+    margin: 0 0 0 30px;
+}
+output{
+    margin: 20px;
+    background-color: beige;
+}
