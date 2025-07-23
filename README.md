@@ -1,2 +1,0 @@
-# VDeza.github.io
-Belajar
