@@ -3,7 +3,7 @@ html{
 }
 body{
     margin: 0;
-    background-color: aquamarine;
+    background-color: aquamarin;
 }
 h1{
     margin: o;
@@ -12,13 +12,15 @@ h1{
 }
 #form{
     background-color: aquamarine;
+    justify-items: center;
 }
 #converterForm {
-    display: flex;
-    background-color: aquamarine;
+    justify-items: center;
+    
 }
 #inputnumber{
-    margin: 10px;
+    margin: 10px;       
+    width: 295px
 }
 #inputunit{
     margin: 10px;
@@ -32,4 +34,5 @@ button{
 output{
     margin: 20px;
     background-color: beige;
+    justify-items: center;
 }

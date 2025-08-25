@@ -50,4 +50,5 @@ function converter(){
     else if (satuanAsal.value == "miles" && satuanakhir.value == "miles"){
         document.getElementById("Result").innerHTML = value.value * 1 + " " + satuanakhir.value;
     }
+    else document.getElementById("Result").innerHTML = "PLEASE SELECT THE UNIT!";
 }
